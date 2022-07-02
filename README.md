@@ -1,6 +1,6 @@
 # Blockchain-Website
 
-It is a frontend of the react app which tells the information to the user.
+It is a frontend react app which tells the information to the user.
 <br/>
 This project is built using HTML5, CSS3, ReactJS and NodeJS.
 
