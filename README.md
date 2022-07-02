@@ -8,7 +8,7 @@ This project is built using HTML5, CSS3, ReactJS and NodeJS.
 
 - Users can see there wallet address, total stakable token and many more.
 - With the help of this user can enter the amount of token.
-- They can also stake, unstake and emergency withdraw there money by clicking the buttons.
+- They can also stake, unstake and emergency withdraw there token by clicking the buttons.
 
 ## Technologies
 
