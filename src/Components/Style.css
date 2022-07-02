@@ -1,0 +1,409 @@
+*
+{
+    background-color: #0F101C;
+    color: white;
+}
+
+/*---------------- Navbar Start --------------*/
+.navbar
+{
+    margin-top: -4px;
+}
+
+.navbar1, .navbar-brand ,.navbar-button, .navbar-image
+{
+    background-color:#1C1D39
+    
+}
+
+.navbar-brand h3
+{
+    color: white;
+    padding-left: 2.8em;
+    margin-top: -1.2em;
+}
+
+.nav-btn1
+{
+    width: 10em;
+    border-color: #00C88C;
+    font-family:'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.nav-btn2
+{
+    width:10em;
+    background-color:#00C88C;
+    font-family:'poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+/*---------------- Navbar End --------------*/
+
+/*---------------- Left Card Start --------------*/
+
+.left-card
+{
+    position: absolute;
+    width: 572px;
+    height: 234px;
+    left: 25px;
+    top: 134px;
+}
+
+.left-card h2
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 54px;
+}
+
+.left-card p
+{
+    width: 524px;
+    height: 210px;
+    left: 86px;
+    top: 393px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 31px;
+}
+
+.token
+{
+    color: #00C88C;
+}
+
+.card1
+{
+    background-color: #1C1D39;
+    height: 104px;
+    width: 260px;
+    left: 8px;
+    top: 370px;
+    border-radius: 0px;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+    position: absolute;
+}
+
+.card2
+{
+    background-color: #1C1D39;
+    height: 104px;
+    width: 260px;
+    left: 280px;
+    top: 370px;
+    border-radius: 0px;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+    position: absolute;
+}
+
+/*---------------- Left Card End --------------*/
+
+.card-body, h6, h3
+{
+    background-color: #1C1D39;
+}
+
+.card-body h6
+{
+    font-family: 'poppins';
+    font-weight: 400px;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+.card-body h3
+{
+    color: #00C88C;
+    font-family: 'poppins';
+    font-weight: 500px;
+    font-size: 32px;
+    line-height: 48px;
+}
+
+/*---------------- Right Card Start --------------*/
+
+.card3
+{
+    position: absolute;
+    width: 292px;
+    height: 104px;
+    left: 630px;
+    top: 134px;
+    background: #1C1D39; 
+}
+
+.card4
+{
+    position: absolute;
+    width: 292px;
+    height: 104px;
+    left: 940px;
+    top: 134px;
+
+    background: #1C1D39;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+    border-radius: 0px 10px 0px 0px;
+}
+
+.card5
+{
+    position: absolute;
+    width: 598px;
+    height: 625px;
+    left: 634px;
+    top: 280px;
+    margin-bottom: 20em;
+
+    background: #1C1D39;
+    box-shadow: 5px 5px 6px -19px #FFFFFF;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.text-left
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    background-color: #1C1D39;
+    color: rgba(255, 255, 255, 0.8);
+    left: 10px;
+    position: absolute;
+    height: 33px;
+}
+
+.text-right
+{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    background-color: #1C1D39;
+    color: #FFFFFF;
+    left: 440px;
+    position: absolute;
+}
+
+.text-left1
+{
+    width: 220px;
+}
+
+.text-right1
+{
+    width: 152px;
+}
+
+.text-left2
+{
+    width: 227px;
+    top: 60px;
+}
+
+.text-right2
+{
+    width: 145px;
+    top: 60px;
+}
+
+.text-left3
+{
+    width: 302px;
+    top: 110px;
+}
+
+.text-right3
+{
+    width: 96px;
+    top: 110px;
+}
+
+.text-left4
+{
+    width: 133px;
+    top: 155px;
+}
+
+.text-right4
+{
+    width: 50px;
+    top: 160px;
+}
+
+.text-left5
+{
+    width: 152px;
+    top: 203px;
+}
+
+.text-right5
+{
+    width: 88px;
+    top: 207px;
+}
+
+.text-left6
+{
+    width: 109px;
+    top: 248px;
+}
+
+.text-left7
+{
+    width: 287px;
+    top: 342px;
+}
+
+.progress
+{
+    top: 299px;
+    width: 570px;
+    background-color: #D9D9D933;
+    border-radius: 20px;
+    height: 27px;
+}
+
+.progress-bar
+{
+    width: 50%;
+    background-color: #00C88C;
+    color: black;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.input
+{
+    top: 389px;
+    width: 570px;
+}
+
+.input-box
+{
+    background-color: #D9D9D933;
+    color: #FFFFFF;
+    height: 40px;
+}
+
+.input-box::placeholder
+{
+    color: #FFFFFF;
+    width: 170px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.btn-max
+{
+    width: 147px;
+    background: #FFFFFF;
+    height: 40px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 50px;
+}
+
+.btn-stake
+{
+    width: 272px;
+    height: 37px;
+    left: 15px;
+    top: 476px;
+    position: absolute;
+    background: #F6FFFC;
+    border-radius: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.btn-unstake
+{
+    position: absolute;
+    width: 272px;
+    height: 37px;
+    left: 302px;
+    top: 476px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 100px;
+}
+
+.btn-emergency
+{
+    position: absolute;
+    width: 567px;
+    height: 37px;
+    left: 15px;
+    top: 527px;
+
+    background: #FF0000;
+    border-radius: 10px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 174px;
+    color: #FFFFFF;
+}
+
+/*---------------- Right Card End --------------*/
